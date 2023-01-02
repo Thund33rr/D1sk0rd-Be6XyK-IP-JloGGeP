@@ -1,5 +1,7 @@
 # Discord-Webhook-IP-Logger
 Это регистратор IP-адресов, который отправляет IP-адрес посетителя веб-сайта в Discord в виде встроенного сообщения.<br><br>
+
+[Оригинальныйй репозиторий](https://github.com/Jeroenimo02/Discord-Webhook-IP-Logger)<br>
 ### Пример:<br>
 ![Example Picture](https://i.imgur.com/fzxgFPy.png)
 
