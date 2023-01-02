@@ -63,7 +63,7 @@ class Discord
             "avatar_url" => "$Flag",
             "embeds" => [array(
 
-                "title" => "Visitor From $Country",
+                "title" => "Посетитель с $Country",
                 "color" => "39423",
 
                 "fields" => [array(
@@ -81,12 +81,12 @@ class Discord
                         "value" => "$Browser"
                     ),
                     array(
-                        "name" => "Country/CountryCode",
+                        "name" => "Страна/КодСтраны",
                         "value" => "$Country/$CountryCode",
                         "inline" => true
                     ),
                     array(
-                        "name" => "Region | City | Zip",
+                        "name" => "Регион | Город | Почтовый индекс",
                         "value" => "[$Region | $City | $Zip](https://www.google.com/maps/search/?api=1&query=$Lat,$Lon 'Google Maps Location (+/- 750M Radius)')",
                         "inline" => true
                     )],
