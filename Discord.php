@@ -5,7 +5,7 @@ Please keep this copyright statement intact
 Creator: Jeroenimo02#2380
 Publish Date: 19-03-2021
 Last Update: 18-03-2022
-Modified by Thund33rr.
+Modified by Thund33r.
 Modification Date: 02-01-2023
 APIs Provided By: geoiplookup.io and ip-api.com
 */ 
